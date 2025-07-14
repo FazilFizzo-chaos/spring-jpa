@@ -1,0 +1,1 @@
+This is the project following tutorial for learning Spring data JPA(Java Persistence API), a framework for managing relational data in Java. It is mostly implemented using Hibernate. It defines how Java objects(entities) are mapped to database tables in relational databases like MySQL.   
